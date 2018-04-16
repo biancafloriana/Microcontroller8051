@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Sun Mar 25 18:58:59 2018
+# Process ID: 9424
+# Current directory: F:/Facultate/An III/sem2/SSC/Microcontroler8051/Microcontroler8051.runs/synth_1
+# Command line: vivado.exe -log ALU8bit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ALU8bit.tcl
+# Log file: F:/Facultate/An III/sem2/SSC/Microcontroler8051/Microcontroler8051.runs/synth_1/ALU8bit.vds
+# Journal file: F:/Facultate/An III/sem2/SSC/Microcontroler8051/Microcontroler8051.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source ALU8bit.tcl -notrace

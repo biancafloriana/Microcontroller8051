@@ -1,0 +1,27 @@
+Vivado Simulator 2017.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2017.2/bin/unwrapped/win64.o/xelab.exe -wto 64041288a8674c45a7590be736c84afe --debug typical --relax --mt 2 -L xil_defaultlib -L secureip -L xpm --snapshot ALU8bit_tb_behav xil_defaultlib.ALU8bit_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling architecture behavioral of entity xil_defaultlib.AND_p [and_p_default]
+Compiling architecture behavioral of entity xil_defaultlib.NOT_p [not_p_default]
+Compiling architecture structural of entity xil_defaultlib.NAND_p [nand_p_default]
+Compiling architecture structural of entity xil_defaultlib.NAND_p3 [nand_p3_default]
+Compiling architecture structural of entity xil_defaultlib.Mux2_1 [mux2_1_default]
+Compiling architecture behavioral of entity xil_defaultlib.OR_p [or_p_default]
+Compiling architecture structural of entity xil_defaultlib.XOR_p [xor_p_default]
+Compiling architecture structural of entity xil_defaultlib.FullAdder1 [fulladder1_default]
+Compiling architecture structural of entity xil_defaultlib.mux4_1_1 [mux4_1_1_default]
+Compiling architecture structural of entity xil_defaultlib.mux8_1 [mux8_1_default]
+Compiling architecture structural of entity xil_defaultlib.ALU1b [alu1b_default]
+Compiling architecture structural of entity xil_defaultlib.ALU8bit [alu8bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.alu8bit_tb
+Built simulation snapshot ALU8bit_tb_behav
